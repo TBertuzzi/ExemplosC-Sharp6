@@ -1,0 +1,6 @@
+D:\Data\Fontes\Exemplos\C#6.07.0\KBits.Exemplos\KBits.Exemplos\bin\Debug\KBits.Exemplos.exe.config
+D:\Data\Fontes\Exemplos\C#6.07.0\KBits.Exemplos\KBits.Exemplos\obj\Debug\KBits.Exemplos.csprojResolveAssemblyReference.cache
+D:\Data\Fontes\Exemplos\C#6.07.0\KBits.Exemplos\KBits.Exemplos\bin\Debug\KBits.Exemplos.exe
+D:\Data\Fontes\Exemplos\C#6.07.0\KBits.Exemplos\KBits.Exemplos\bin\Debug\KBits.Exemplos.pdb
+D:\Data\Fontes\Exemplos\C#6.07.0\KBits.Exemplos\KBits.Exemplos\obj\Debug\KBits.Exemplos.exe
+D:\Data\Fontes\Exemplos\C#6.07.0\KBits.Exemplos\KBits.Exemplos\obj\Debug\KBits.Exemplos.pdb
